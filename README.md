@@ -11,6 +11,7 @@ b.	All the output files will be created under respective city names folder.
 3.	CityWeatherAnalysis:
 a.	This is the utility which will import city data, perform API call and store output.
 b.	To run utility, execute the EXE from folder 'CityWeatherAnalysis\CityWeatherAnalysis\bin\Debug'
+
 Test Cases
 1.	Check if the input file exists or not. In case if the file is not available, a console error will be printed.
  
