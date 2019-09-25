@@ -2,7 +2,9 @@ Prudential.zip file contains 3 folders.
 1.	InputFolder:
 
 a.	Create folders according to this path ‘E:\Prudential\InputFolder\City' and add file named as Data.txt.
+
 b.	This will be taken as input for the utility. 
+
 c.	If needed, change path to appropriate location of varibale named 'cityNamesData' for input 
 
 2.	OutputFolder:
